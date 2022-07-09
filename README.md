@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @song2park
-- 👀 I’m interested in AI ...
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in AI, algorithm
+- 🌱 I’m currently working in AI dept
 - 📫 How to reach me - just comment here!
 
 <!---
